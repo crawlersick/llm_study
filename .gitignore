@@ -7,3 +7,5 @@ output
 *.db
 __pycache__
 *.zip
+gemma-2b-it/
+llm_venv/
